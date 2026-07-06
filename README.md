@@ -562,6 +562,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[Ziplark](https://github.com/zhitongblog/ziplark)** - 🦀 Archive & compression MCP server: list, extract, test and create ZIP, 7z, tar and gz/bz2/xz/zst/lz4; read RAR/RAR5 and ISO; AES-256 with a zip-slip guard. Part of Ziplark, one small Rust engine shared with a desktop app and a CLI.
 
 ## Clients
 
